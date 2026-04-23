@@ -11,11 +11,11 @@ A curated list of mathematics resources.
 
 ## General Resources
 
-- Khan Academy
-- MIT OpenCourseWare
+- [Khan Academy](https://www.khanacademy.org/)
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
 
 ---
 
 ## Calculus
 
-- Professor Leonard
+- [Professor Leonard](https://www.youtube.com/@ProfessorLeonard)
